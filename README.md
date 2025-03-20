@@ -9,7 +9,10 @@ Performans Ölçütleri: Sistem, reaksiyon süresi, başarılı vuruş sayısı 
 Puanlama ve Raporlama: Dinamik bir puanlama sistemi, futbolcunun performansını önceden belirlenmiş kriterlere göre değerlendirir ve detaylı raporlar oluşturur.
 Bu proje, sanal gerçeklik teknolojisini kullanarak futbol antrenmanlarına yenilikçi bir bakış açısı kazandırmayı, oyunculara gerçek zamanlı geri bildirimler ve gelişimlerini takip edebilecekleri veriler sunmayı hedeflemektedir.
 
-🚀 Güncellemeler için takipte kalın!
+🚀 Güncellemeler için takipte kalın! 
+
+Projemizin %80 itibari ile bitmiştir. Yakında Tüm kodlarıyla birlikte paylaşılacaktır. 
+
 
 # Vr-Football
 
