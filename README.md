@@ -24,3 +24,6 @@ Scoring & Reporting: A dynamic scoring system will evaluate player performance b
 This project aims to enhance football training methodologies by utilizing immersive VR technology, providing players with real-time feedback and actionable insights for skill development.
 
 🚀 Stay tuned for updates!
+
+
+![Uploading d92f3385-6092-4a0e-a807-89c9056413c6-2.jpg…]()
