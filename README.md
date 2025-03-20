@@ -26,4 +26,4 @@ This project aims to enhance football training methodologies by utilizing immers
 🚀 Stay tuned for updates!
 
 
-![Uploading d92f3385-6092-4a0e-a807-89c9056413c6-2.jpg…]()
+![Image](https://github.com/user-attachments/assets/33e3ce7a-bcbe-4bc0-9c4b-c8e7815885ef)
