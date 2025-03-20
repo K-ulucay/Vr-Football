@@ -11,7 +11,7 @@ Bu proje, sanal gerçeklik teknolojisini kullanarak futbol antrenmanlarına yeni
 
 🚀 Güncellemeler için takipte kalın! 
 
-Projemizin %80 itibari ile bitmiştir. Yakında Tüm kodlarıyla birlikte paylaşılacaktır. 
+Projemiz %80 itibari ile bitmiştir. Yakında Tüm kodlarıyla birlikte paylaşılacaktır. 
 
 
 # Vr-Football
